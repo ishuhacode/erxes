@@ -19,7 +19,7 @@
     "test": "node --expose-gc --max_old_space_size=4000 ./node_modules/.bin/jest --forceExit --silent --logHeapUsage"
   },
   "dependencies": {
-    "@google-cloud/pubsub": "^2.0.0",
+    "@google-cloud/pubsub": "^3.0.0",
     "@google-cloud/storage": "^5.0.0",
     "@types/cors": "^2.8.4",
     "@types/dotenv": "^4.0.3",
