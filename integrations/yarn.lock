@@ -380,9 +380,17 @@
   dependencies:
     "@types/node" "*"
 
-"@types/mongodb@*", "@types/mongodb@^3.1.2":
+"@types/mongodb@*":
   version "3.3.6"
   resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.3.6.tgz#ed8a2ff4a27170f8da284d817235c46019bdaa24"
+  dependencies:
+    "@types/bson" "*"
+    "@types/node" "*"
+
+"@types/mongodb@^3.6.20":
+  version "3.6.20"
+  resolved "https://registry.yarnpkg.com/@types/mongodb/-/mongodb-3.6.20.tgz#b7c5c580644f6364002b649af1c06c3c0454e1d2"
+  integrity sha512-WcdpPJCakFzcWWD9juKoZbRtQxKIMYF/JIAM4JrNHrMcnJL6/a2NWjXxW7fo9hxboxxkg+icff8d7+WIEvKgYQ==
   dependencies:
     "@types/bson" "*"
     "@types/node" "*"
