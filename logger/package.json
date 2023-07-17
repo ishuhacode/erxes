@@ -30,7 +30,7 @@
     "erxes-message-broker": "^1.0.17",
     "express": "^4.16.4",
     "migrate": "^1.6.2",
-    "mongoose": "5.7.10",
+    "mongoose": "5.13.20",
     "ts-node": "8.0.3",
     "uuid": "^8.3.0"
   },
