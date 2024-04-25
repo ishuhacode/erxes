@@ -8,7 +8,7 @@ RUN apk add --no-cache alpine-sdk && \
     make install
 
 # nginx current stable 1.18
-FROM nginx:1.23.3-alpine
+FROM nginx:1.26-alpine
 COPY --from=0 /usr/local/bin/jo /usr/local/bin/jo
 COPY docker-entrypoint.sh /usr/local/bin/
 RUN chmod +x /usr/local/bin/docker-entrypoint.sh && \
