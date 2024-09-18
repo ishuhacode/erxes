@@ -28,7 +28,7 @@
     "debug": "^4.1.1",
     "dotenv": "^4.0.0",
     "erxes-message-broker": "^1.0.17",
-    "express": "^4.16.4",
+    "express": "^4.20.0",
     "migrate": "^1.6.2",
     "mongoose": "5.7.10",
     "ts-node": "8.0.3",
