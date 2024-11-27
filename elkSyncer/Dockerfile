@@ -1,4 +1,4 @@
-FROM python:3.10.10-alpine
+FROM python:3.14.0a2-alpine
 
 WORKDIR /elkSyncer/
 
