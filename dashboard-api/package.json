@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@cubejs-backend/elasticsearch-driver": "^0.19.17",
-    "@cubejs-backend/server": "^0.19.14",
+    "@cubejs-backend/server": "^1.1.17",
     "@cubejs-client/core": "^0.22.2",
     "dotenv": "^8.2.0",
     "elasticsearch": "^16.7.1",
