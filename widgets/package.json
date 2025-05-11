@@ -20,7 +20,7 @@
     "start": "node dist"
   },
   "dependencies": {
-    "@nateradebaugh/react-datetime": "^4.0.0-rc.10",
+    "@nateradebaugh/react-datetime": "^4.1.0",
     "@types/classnames": "^2.2.6",
     "@types/cors": "^2.8.4",
     "@types/dotenv": "^4.0.3",
